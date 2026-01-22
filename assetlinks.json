@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.sride.userapp.dev",
+    "sha256_cert_fingerprints":
+    ["CE:97:B5:1E:78:C2:88:10:3D:22:45:2C:A1:2B:CA:69:8A:66:9A:27:5E:B1:9C:DE:85:88:06:5F:EA:C7:9E:9D"]
+  }
+}]
